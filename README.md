@@ -73,7 +73,29 @@ Detailed results from the ANOVA tests indicating significant findings.
 This study concludes that specific musical instruments and longer practice sessions positively influence arithmetic abilities, with implications for educational strategies that incorporate music training to enhance mathematical skills.
 
 ## 7. References
-[References to relevant literature and studies]
+Ciurea, Alexandru Vlad, et al. “Cognitive Crescendo: How Music Shapes the Brain’s Structure and Function.” Brain Sciences, 13(10), 2023, www.mdpi.com/doi/10.3390/brainsci13101390.
+
+Gaab, Nadine, and Jennifer Zuk. “Is There a Link between Music and Math?” Scientific American, Scientific American, 20 Feb. 2024, www.scientificamerican.com/article/is-there-a-link-between-music-and-math/.
+
+Hudak, E. M., et al. “Keys to Staying Sharp: A Randomized Clinical Trial of Piano Training Among Older Adults with and without Mild Cognitive Impairment.” Contemporary Clinical Trials, 84, 2019, doi.org/10.1016/j.cct.2019.06.003.
+
+Husebø, Bettina Sandgathe, et al. “The Effect of Music-Based Intervention on General Cognitive and Executive Functions, and Episodic Memory in People with Mild Cognitive Impairment and Dementia: A Systematic Review and Meta-Analysis.” Healthcare, 10(8), 2022, doi.org/10.3390/healthcare10081462.
+
+Jim´enez-Palomares, Mar´ıa, et al. “Benefits of Music Therapy in the Cognitive Impairments of Alzheimer’s-Type Dementia: A Systematic Review.” Journal of Clinical Medicine, U.S. National Library of Medicine, 1 Apr. 2024, www.ncbi.nlm.nih.gov/pmc/articles/PMC11012733/.
+
+Miendlarzewska, Ewa A, and Wiebke J Trost. “How Musical Training Affects Cognitive Development: Rhythm, Reward and Other Modulating Variables.” Frontiers in Neuroscience, U.S. National Library of Medicine, 20 Jan. 2014, www.ncbi.nlm.nih.gov/pmc/articles/PMC3957486/.
+
+Ribeiro, Fabiana Silva, and Fl´avia Helo´ısa Santos. “Persistent Effects of Musical Training on Mathematical Skills of Children with Developmental Dyscalculia.” Frontiers in Psychology, U.S. National Library of Medicine, 10 Jan. 2020, www.ncbi.nlm.nih.gov/pmc/articles/PMC6965363/.
+
+Rom´an-Caballero, R., et al. “Please Don’t Stop the Music: A Meta-Analysis of the Cognitive and Academic Benefits of Instrumental Musical Training in Childhood and Adolescence.” *Educational Research Review*, 35, 2022, doi.org/10.1016/j.edurev.2022.100436.
+
+Sihvonen, A. J., et al. “Effects of a 10-week Musical Instrument Training on Cognitive Function in Healthy Older Adults: Implications for Desirable Tests and Period of Training.” *Frontiers in Aging Neuroscience*, 15:1180259, 2023, doi.org/10.3389/fnagi.2023.1180259.
+
+Sousa, J., et al. “When Music and Long-Term Memory Interact: Effects of Musical Expertise on Functional and Structural Plasticity in the Hippocampus.” *PLOS ONE*, 15, 2020, doi.org/10.1371/journal.pone.0013225.
+
+Verghese, J., et al. “Leisure Activities and the Risk of Dementia in the Elderly.” *New England Journal of Medicine*, 348, 2003, doi.org/10.1056/NEJMoa022252.
+
+Zhang, Lei, et al. “Musical Experience Offsets Age-Related Decline in Understanding Speech-in-Noise: Type of Training Does Not Matter, Working Memory Is the Key.” Ear and Hearing, U.S. National Library of Medicine, 2021, www.ncbi.nlm.nih.gov/pmc/articles/PMC7969154/.
 
 ---
 
